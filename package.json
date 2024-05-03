@@ -1,0 +1,9 @@
+{
+  "name": "my-project",
+  "scripts": {
+    "knip": "knip"
+  },
+  "dependencies": {
+    "knip": "5.12.0"
+  }
+}
